@@ -4,14 +4,14 @@
     <a href="https://www.linkedin.com/in/saeed-zeydabadi/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>
     <a href="mailto:saeedzed2002@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
   </p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=20&amp;duration=3200&amp;pause=900&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=Backend+and+full-stack+developer;Building+reliable+APIs%2C+commerce+systems%2C+and+event-driven+services;Python+%C2%B7+FastAPI+%C2%B7+Django+%C2%B7+React+%C2%B7+Next.js" alt="Backend and full-stack developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=28&amp;duration=3200&amp;pause=900&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=840&amp;lines=Backend+Developer;Reliable+APIs+%C2%B7+Commerce+Systems+%C2%B7+Event-Driven+Services;Python+%C2%B7+FastAPI+%C2%B7+Django" alt="Backend Developer" />
 </div>
 
 ---
 
 ## Building dependable software, end to end
 
-I am a Computer Engineering student and backend-focused developer. I design APIs,
+I am a Computer Engineering student and backend developer. I design APIs,
 commerce workflows, and distributed services with an emphasis on clear boundaries,
 secure defaults, repeatable tests, and production-ready delivery.
 
@@ -32,15 +32,15 @@ secure defaults, repeatable tests, and production-ready delivery.
     <td width="50%" valign="top">
       <h3>VOLUMA</h3>
       <p>A bilingual architecture portfolio and content platform with an editorial public experience, protected administration, and managed media workflows.</p>
-      <p><code>FastAPI</code> <code>Next.js</code> <code>Celery</code> <code>PostgreSQL</code> <code>Redis</code></p>
+      <p><code>FastAPI</code> <code>Celery</code> <code>PostgreSQL</code> <code>Redis</code></p>
       <a href="https://github.com/saeedzed2002/voluma-architecture">Explore repository →</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>ecommerce-platform</h3>
-      <p>A full-stack store with server-calculated checkout, stock protection, OTP authentication, payment handling, and operational safeguards.</p>
-      <p><code>Django REST Framework</code> <code>React</code> <code>Celery</code> <code>Docker</code></p>
+      <p>An e-commerce system with server-calculated checkout, stock protection, OTP authentication, payment handling, and operational safeguards.</p>
+      <p><code>Django REST Framework</code> <code>Celery</code> <code>Docker</code></p>
       <a href="https://github.com/saeedzed2002/ecommerce-platform">Explore repository →</a>
     </td>
     <td width="50%" valign="top">
@@ -52,15 +52,13 @@ secure defaults, repeatable tests, and production-ready delivery.
   </tr>
 </table>
 
-## Technology arsenal
+## Backend toolbox
 
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" />
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white" />
   <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&amp;logo=django&amp;logoColor=white" />
   <img alt="Django REST Framework" src="https://img.shields.io/badge/Django_REST_Framework-A30000?style=for-the-badge" />
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" />
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" />
   <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&amp;logo=redis&amp;logoColor=white" />
   <img alt="Kafka" src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&amp;logo=apachekafka&amp;logoColor=white" />
@@ -70,6 +68,13 @@ secure defaults, repeatable tests, and production-ready delivery.
   <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&amp;logo=nginx&amp;logoColor=white" />
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&amp;logo=githubactions&amp;logoColor=white" />
 </p>
+
+## Interests and project exposure
+
+I am interested in how frontend delivery affects backend design. Some projects I
+have shipped include `React`, `Next.js`, and `Node.js` tooling; this is project
+exposure, not a claim of frontend specialization. My primary focus is backend
+engineering.
 
 ## Current focus
 
