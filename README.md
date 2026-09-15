@@ -1,47 +1,82 @@
-<div align=center>
-  <img src=./code.jpg />
+<div align="center">
+  <h1>Hi, I'm Saeed Zeydabadi 👋</h1>
+  <p>
+    <a href="https://www.linkedin.com/in/saeed-zeydabadi/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>
+    <a href="mailto:saeedzed2002@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
+  </p>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=20&amp;duration=3200&amp;pause=900&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=Backend+and+full-stack+developer;Building+reliable+APIs%2C+commerce+systems%2C+and+event-driven+services;Python+%C2%B7+FastAPI+%C2%B7+Django+%C2%B7+React+%C2%B7+Next.js" alt="Backend and full-stack developer" />
 </div>
 
-# 💫 About Me:
-Backend developer focused on Python, Django, and FastAPI. I build and containerize
-services with Docker, work with PostgreSQL/Redis for data layers, and use RabbitMQ
-for event-driven communication between services. Currently deepening my DevOps
-skills — Kubernetes, self-hosted GitLab CI/CD — while studying Computer Engineering
-at Shiraz University.
+---
 
+## Building dependable software, end to end
 
-## 🌐 Socials:
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saeed-zeydabadi/)
-[![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saeedzed2002@gmail.com)
+I am a Computer Engineering student and backend-focused developer. I design APIs,
+commerce workflows, and distributed services with an emphasis on clear boundaries,
+secure defaults, repeatable tests, and production-ready delivery.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-<!-- # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=saeedzed2002&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=saeedzed2002&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=saeedzed2002&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+- **Backend systems:** `Python`, `FastAPI`, `Django`, and `Django REST Framework`
+- **Data and messaging:** `PostgreSQL`, `Redis`, `Kafka`, `RabbitMQ`, and `MinIO`
+- **Delivery:** `Docker`, `Nginx`, `GitHub Actions`, `GitLab CI/CD`, and `Kubernetes`
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=saeedzed2002&theme=dark&no-frame=false&no-bg=false&margin-w=4) -->
+## Selected work
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>FastAPI Microservices Platform</h3>
+      <p>Event-driven commerce services with explicit ownership boundaries, durable messaging patterns, background processing, and containerized local infrastructure.</p>
+      <p><code>FastAPI</code> <code>Kafka</code> <code>RabbitMQ</code> <code>PostgreSQL</code> <code>Redis</code></p>
+      <a href="https://github.com/saeedzed2002/fastapi-microservices-platform">Explore repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>VOLUMA</h3>
+      <p>A bilingual architecture portfolio and content platform with an editorial public experience, protected administration, and managed media workflows.</p>
+      <p><code>FastAPI</code> <code>Next.js</code> <code>Celery</code> <code>PostgreSQL</code> <code>Redis</code></p>
+      <a href="https://github.com/saeedzed2002/voluma-architecture">Explore repository →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>ecommerce-platform</h3>
+      <p>A full-stack store with server-calculated checkout, stock protection, OTP authentication, payment handling, and operational safeguards.</p>
+      <p><code>Django REST Framework</code> <code>React</code> <code>Celery</code> <code>Docker</code></p>
+      <a href="https://github.com/saeedzed2002/ecommerce-platform">Explore repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Auremont</h3>
+      <p>A luxury-watch commerce application with product curation, wishlists, moderated reviews, coupons, transactional checkout, and production deployment guidance.</p>
+      <p><code>Django</code> <code>PostgreSQL</code> <code>Gunicorn</code> <code>Nginx</code></p>
+      <a href="https://github.com/saeedzed2002/auremont">Explore repository →</a>
+    </td>
+  </tr>
+</table>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Technology arsenal
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white" />
+  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&amp;logo=django&amp;logoColor=white" />
+  <img alt="Django REST Framework" src="https://img.shields.io/badge/Django_REST_Framework-A30000?style=for-the-badge" />
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" />
+  <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&amp;logo=redis&amp;logoColor=white" />
+  <img alt="Kafka" src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&amp;logo=apachekafka&amp;logoColor=white" />
+  <img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&amp;logo=rabbitmq&amp;logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&amp;logo=kubernetes&amp;logoColor=white" />
+  <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&amp;logo=nginx&amp;logoColor=white" />
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&amp;logo=githubactions&amp;logoColor=white" />
+</p>
 
-<!--
-**saeedzed2002/saeedzed2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Current focus
 
-Here are some ideas to get you started:
+- Designing backend contracts that stay clear as systems grow.
+- Shipping observable, testable services with reliable delivery paths.
+- Deepening practical infrastructure skills around `Kubernetes` and continuous delivery.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <sub>Open to thoughtful collaboration on backend, platform, and commerce projects.</sub>
+</div>
