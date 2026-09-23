@@ -50,6 +50,15 @@ secure defaults, repeatable tests, and production-ready delivery.
       <a href="https://github.com/saeedzed2002/auremont">Explore repository →</a>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Nosh</h3>
+      <p>A local-first restaurant ordering demo with customer discovery, configurable checkout, account and order tracking, and a role-protected operations workspace.</p>
+      <p><code>React</code> <code>FastAPI</code> <code>PostgreSQL</code> <code>Docker Compose</code></p>
+      <a href="https://github.com/saeedzed2002/nosh-ordering-platform">Explore repository →</a>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
 </table>
 
 ## Backend toolbox
