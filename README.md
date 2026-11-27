@@ -6,7 +6,7 @@ I’m a Computer Engineering student building Python APIs and event-driven comme
 
 [LinkedIn](https://www.linkedin.com/in/saeed-zeydabadi/) · [Email](mailto:saeedzed2002@gmail.com)
 
-![Illustration of an API gateway, services, an event stream, and a database](assets/backend-blueprint.png)
+![Illustration of an API gateway, services, an event stream, and a database](assets/backend-blueprint.jpg)
 
 ## Featured project
 
