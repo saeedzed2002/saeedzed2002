@@ -10,7 +10,7 @@
 
 I’m a Computer Engineering student building Python APIs and event-driven commerce systems. I focus on clear service boundaries, reliable background work, and reproducible delivery.
 
-![System Blueprint banner for Saeed Zeydabadi, Python Backend Developer](assets/system-blueprint.svg)
+![Python Backend Developer — System Blueprint](assets/system-blueprint.png)
 
 ## Featured project
 
