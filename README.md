@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Saeed Zeydabadi 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=840&lines=Backend+Developer;Reliable+APIs+%C2%B7+Commerce+Systems+%C2%B7+Event-Driven+Services;Python+%C2%B7+FastAPI+%C2%B7+Django" alt="Backend Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=28&amp;duration=3200&amp;pause=900&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=840&amp;lines=Backend+Developer;Reliable+APIs+%C2%B7+Event-Driven+Commerce;Python+%C2%B7+FastAPI+%C2%B7+Django" alt="Backend Developer" />
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 
 I’m a Computer Engineering student building Python APIs and event-driven commerce systems. I focus on clear service boundaries, reliable background work, and reproducible delivery.
 
-![Illustration of an API gateway, services, an event stream, and a database](assets/backend-blueprint.jpg)
+![System Blueprint banner for Saeed Zeydabadi, Python Backend Developer](assets/system-blueprint.svg)
 
 ## Featured project
 
