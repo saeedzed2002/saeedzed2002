@@ -48,7 +48,7 @@ A portfolio commerce backend with event-driven workflows for checkout, fulfillme
 ### APIs & persistence
 
 <p>
-  <img src="assets/skills/djangorest.svg" alt="Django REST Framework" title="Django REST Framework" width="54" height="54" />
+  <img src="assets/skills/django-rest.svg" alt="Django REST Framework" title="Django REST Framework" width="54" height="54" />
   <img src="assets/skills/pydantic.svg" alt="Pydantic" title="Pydantic" width="54" height="54" />
   <img src="assets/skills/sqlalchemy.svg" alt="SQLAlchemy" title="SQLAlchemy" width="54" height="54" />
   <img src="assets/skills/jwt.svg" alt="JSON Web Tokens" title="JSON Web Tokens" width="54" height="54" />
