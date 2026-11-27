@@ -1,62 +1,49 @@
-<h1 align="center">Hi, I'm Saeed Zeydabadi 👋</h1>
+# Saeed Zeydabadi
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=840&lines=Backend+Developer;Reliable+APIs+%C2%B7+Commerce+Systems+%C2%B7+Event-Driven+Services;Python+%C2%B7+FastAPI+%C2%B7+Django" alt="Backend Developer" />
-</p>
+**Python Backend Developer**
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/saeed-zeydabadi/">LinkedIn</a> · <a href="mailto:saeedzed2002@gmail.com">Email</a>
-</p>
+I’m a Computer Engineering student building Python APIs and event-driven commerce systems. I focus on clear service boundaries, reliable background work, and reproducible delivery.
 
-Backend developer focused on dependable APIs, commerce workflows, and delivery-aware services.
+[LinkedIn](https://www.linkedin.com/in/saeed-zeydabadi/) · [Email](mailto:saeedzed2002@gmail.com)
 
-I am a Computer Engineering student building portfolio projects around clear backend boundaries, secure defaults, repeatable tests, and practical delivery.
+![Illustration of an API gateway, services, an event stream, and a database](assets/backend-blueprint.png)
 
-## Selected work
+## Featured project
 
 ### [FastAPI Microservices Platform](https://github.com/saeedzed2002/fastapi-microservices-platform)
 
-Event-driven commerce services with explicit service ownership, durable messaging patterns, and executable delivery evidence. The repository documents deliberate production limits.
+A portfolio commerce backend with event-driven workflows for checkout, fulfillment, and post-delivery returns across independently deployable services.
 
-### [VOLUMA](https://github.com/saeedzed2002/voluma-architecture)
+- Services own their PostgreSQL data. An outbox relay publishes events to Kafka, and idempotent consumers handle duplicate delivery.
+- GitHub Actions installs the Helm charts in a disposable Kind cluster and runs end-to-end checks for checkout, shipping, and returns.
 
-Bilingual architecture portfolio and content platform with protected administration, managed media workflows, and verified local and CI evidence.
+[Reviewer guide](https://github.com/saeedzed2002/fastapi-microservices-platform/blob/main/docs/portfolio/reviewer-guide.md) · [CI runs](https://github.com/saeedzed2002/fastapi-microservices-platform/actions/workflows/platform-ci.yml)
 
-### [Nosh](https://github.com/saeedzed2002/nosh-ordering-platform)
+## Selected work
 
-Local-first restaurant-ordering demo with server-enforced ordering rules, customer order tracking, and a role-protected operations workspace.
+- **[VOLUMA](https://github.com/saeedzed2002/voluma-architecture)** · Bilingual publishing platform with protected editorial tools, asynchronous media processing, and a repeatable Compose smoke test.
+- **[Nosh](https://github.com/saeedzed2002/nosh-ordering-platform)** · Local restaurant-ordering demo with server-enforced checkout rules, customer order tracking, and a role-protected operations workspace.
+- **[Nivaro Gaming](https://github.com/saeedzed2002/Nivaro)** · Bilingual hardware storefront backed by six FastAPI services, with simulated checkout and a local backup and restore workflow.
+- **[Auremont](https://github.com/saeedzed2002/auremont)** · Django and PostgreSQL demo for a watch storefront.
 
-## Backend toolbox
+## Tech stack
 
+<!-- Icon artwork: Skill Icons by tandpfun. See assets/skills/LICENSE. -->
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Django_REST_Framework-A30000?style=for-the-badge" alt="Django REST Framework" />
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
-  <img src="https://img.shields.io/badge/Alembic-6BA81E?style=for-the-badge" alt="Alembic" />
-  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge" alt="Pydantic" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white" alt="MinIO" />
-  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" alt="Celery" />
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
-  <img src="https://img.shields.io/badge/JSON_Web_Tokens-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JSON Web Tokens" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Compose" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm" />
-  <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest" />
-  <img src="https://img.shields.io/badge/Ruff-D7FF64?style=for-the-badge&logo=ruff&logoColor=black" alt="Ruff" />
+  <img src="assets/skills/python.svg" alt="Python" title="Python" width="54" height="54" />
+  <img src="assets/skills/fastapi.svg" alt="FastAPI" title="FastAPI" width="54" height="54" />
+  <img src="assets/skills/django.svg" alt="Django" title="Django" width="54" height="54" />
+  <img src="assets/skills/postgresql.svg" alt="PostgreSQL" title="PostgreSQL" width="54" height="54" />
+  <img src="assets/skills/redis.svg" alt="Redis" title="Redis" width="54" height="54" />
+  <img src="assets/skills/kafka.svg" alt="Apache Kafka" title="Apache Kafka" width="54" height="54" />
+  <img src="assets/skills/rabbitmq.svg" alt="RabbitMQ" title="RabbitMQ" width="54" height="54" />
+  <img src="assets/skills/docker.svg" alt="Docker" title="Docker" width="54" height="54" />
+  <img src="assets/skills/kubernetes.svg" alt="Kubernetes" title="Kubernetes" width="54" height="54" />
+  <img src="assets/skills/github-actions.svg" alt="GitHub Actions" title="GitHub Actions" width="54" height="54" />
 </p>
+
+`Django REST Framework` · `SQLAlchemy` · `Alembic` · `Pydantic` · `Celery` · `MinIO` · `Docker Compose` · `Helm` · `NGINX` · `pytest` · `Ruff`
 
 ## Current focus
 
-- Designing backend contracts that stay clear as systems grow.
-- Shipping observable, testable services with reliable delivery paths.
-- Deepening practical infrastructure skills around Kubernetes and continuous delivery.
-
-Open to thoughtful collaboration on backend, platform, and commerce projects.
+Practising idempotency and recovery in event-driven workflows, and making Kubernetes delivery and integration tests repeatable.
